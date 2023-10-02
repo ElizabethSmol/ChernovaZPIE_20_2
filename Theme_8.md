@@ -196,7 +196,7 @@ print(vet.introduce())
 print(vet.record())
 ```
 ### Результат.
-![Меню](https://github.com/ElizabethSmol/ChernovaZPIE_20_2/blob/pic/sam_8_5.PNG)
+![Меню](https://github.com/ElizabethSmol/ChernovaZPIE_20_2/blob/pic/sam_8_5_1.PNG)
 
 ## Выводы
 
